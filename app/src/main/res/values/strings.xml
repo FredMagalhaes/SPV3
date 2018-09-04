@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Protector</string>
+
+    <!-- login activity -->
+    <string name="login">Login</string>
+    <string name="login_action">Login</string>
+    <string name="password">Password</string>
+</resources>

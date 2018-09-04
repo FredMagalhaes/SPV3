@@ -1,0 +1,59 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1024dp"
+    android:height="768dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="768">
+  <group>
+    <clip-path android:pathData="M0,0h1024v768h-1024z M 0,0"/>
+    <path
+        android:pathData="M0.0,0.0h1024.0v768.0h-1024.0z"
+        android:fillColor="#000000"
+        android:fillAlpha="0"/>
+    <path
+        android:pathData=" M -225.606 363.394 L -205 384 L -225.606 404.606 C -227.479 406.479 -230.521 406.479 -232.394 404.606 L -253 384 L -232.394 363.394 C -230.521 361.521 -227.479 361.521 -225.606 363.394 Z "
+        android:strokeLineJoin="miter"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="square"/>
+    <path
+        android:pathData=" M 536.981 232.34 L 688.64 384 L 536.981 535.66 C 523.193 549.447 500.807 549.447 487.019 535.66 L 335.36 384 L 487.019 232.34 C 500.807 218.553 523.193 218.553 536.981 232.34 Z "
+        android:strokeLineJoin="miter"
+        android:strokeWidth="10"
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="square"/>
+    <path
+        android:pathData=" M -237 398 L -229 374 L -235 400 L -237 398 Z  M -221 398 L -229 374 L -223 400 L -221 398 Z "
+        android:strokeLineJoin="miter"
+        android:strokeWidth="0.5"
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="square"/>
+    <path
+        android:pathData=" M 453.12 487.04 L 512 310.4 L 467.84 501.76 L 453.12 487.04 Z  M 570.88 487.04 L 512 310.4 L 556.16 501.76 L 570.88 487.04 Z "
+        android:strokeLineJoin="miter"
+        android:strokeWidth="0.5"
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="square"/>
+    <path
+        android:pathData=" M -242.25 362 L -229.25 374 L -229.25 372 L -242.25 362 Z  M -215.75 362 L -228.75 374 L -228.75 372 L -215.75 362 Z "
+        android:strokeLineJoin="miter"
+        android:strokeWidth="0.5"
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="square"/>
+    <path
+        android:pathData=" M 414.48 222.08 L 510.16 310.4 L 510.16 295.68 L 414.48 222.08 Z  M 609.52 222.08 L 513.84 310.4 L 513.84 295.68 L 609.52 222.08 Z "
+        android:strokeLineJoin="miter"
+        android:strokeWidth="0.5"
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="square"/>
+  </group>
+</vector>
