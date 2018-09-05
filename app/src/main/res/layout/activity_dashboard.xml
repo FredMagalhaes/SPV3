@@ -6,4 +6,25 @@
     android:layout_height="match_parent"
     tools:context=".presentation.DashboardActivity">
 
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card_dashboardActivity_agenda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card_dashboardActivity_areas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card_dashboardActivity_settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </com.google.android.material.card.MaterialCardView>
+
 </android.support.constraint.ConstraintLayout>

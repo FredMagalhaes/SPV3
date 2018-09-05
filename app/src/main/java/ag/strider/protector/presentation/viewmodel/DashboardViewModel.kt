@@ -8,14 +8,13 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import javax.inject.Inject
 
-
-class AuthViewModel : AndroidViewModel(Application()) {
+class DashboardViewModel(application: Application) : AndroidViewModel(application) {
 
     @Inject
     private lateinit var mUserRepository: UserRepository
 
-    fun logUserIn(login: String, password: String): LiveData<Resource<User>> {
-        return mUserRepository.logUserIn(login, password)
+    fun getLoggedUser(): LiveData<Resource<User>> {
+        return mUserRepository.getLoggedUser()
     }
 
 }
